@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes el README traducido y adaptado al español para que sea profesional y fácil de entender:
-
----
-
 # **Prototipado de Redes Neuronales para Clasificación y Regresión**
 
 ### **Descripción del Proyecto**
@@ -81,17 +77,11 @@ pip install -r requirements.txt
 #### **Predicciones vs Valores Reales**:
 ![Predicciones vs Valores Reales](imagenes/5_regresion_prediccion_real.png)
 
+#### **Regresión distribución de errores**:
+![Predicciones vs Valores Reales](imagenes/4_regresion_distribución_errores.png)
+
 ---
 
 ### **Métricas de Rendimiento**
 - **Clasificación**: Precisión mediante validación cruzada.
 - **Regresión**: MAE, RMSE, R², MAPE y análisis de distribución de errores.
-
----
-
-### **Contacto**
-Si tienes preguntas o sugerencias, no dudes en comunicarte a través de [GitHub Issues](https://github.com/your-repo).
-
----
-
-¿Te gustaría ajustar alguna parte o añadir algo más específico? 😊
