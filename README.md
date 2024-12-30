@@ -35,24 +35,6 @@ Este proyecto explora el desarrollo y evaluación de redes neuronales multicapa 
 
 ---
 
-### **Estructura de Carpetas**
-```plaintext
-proyecto/
-│
-├── src/                        # Código fuente para clasificación y regresión
-├── data/                       # Datos financieros utilizados para regresión
-├── imagenes/                   # Visualizaciones generadas durante los experimentos
-│   ├── 0_datos.png             # Visualización del conjunto de datos simulado
-│   ├── 1_clases_modelos.png    # Fronteras de clasificación de modelos MLP
-│   ├── 2_clases_modelos_random_grid.png
-│   ├── 3_clases_modelos_bayes_grid.png
-│   ├── 4_regresion_distribución_errores.png
-│   └── 5_regresion_prediccion_real.png
-└── README.md                   # Documentación del proyecto
-```
-
----
-
 ### **Cómo Empezar**
 #### **1. Requisitos Previos**
 Asegúrate de tener instalados los siguientes componentes:
