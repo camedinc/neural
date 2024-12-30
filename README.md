@@ -1,3 +1,7 @@
+¡Claro! Aquí tienes el README traducido y adaptado al español para que sea profesional y fácil de entender:
+
+---
+
 # **Prototipado de Redes Neuronales para Clasificación y Regresión**
 
 ### **Descripción del Proyecto**
@@ -36,7 +40,7 @@ Este proyecto explora el desarrollo y evaluación de redes neuronales multicapa 
 ---
 
 ### **Estructura de Carpetas**
-plaintext
+```plaintext
 proyecto/
 │
 ├── src/                        # Código fuente para clasificación y regresión
@@ -49,6 +53,7 @@ proyecto/
 │   ├── 4_regresion_distribución_errores.png
 │   └── 5_regresion_prediccion_real.png
 └── README.md                   # Documentación del proyecto
+```
 
 ---
 
@@ -81,3 +86,12 @@ pip install -r requirements.txt
 ### **Métricas de Rendimiento**
 - **Clasificación**: Precisión mediante validación cruzada.
 - **Regresión**: MAE, RMSE, R², MAPE y análisis de distribución de errores.
+
+---
+
+### **Contacto**
+Si tienes preguntas o sugerencias, no dudes en comunicarte a través de [GitHub Issues](https://github.com/your-repo).
+
+---
+
+¿Te gustaría ajustar alguna parte o añadir algo más específico? 😊
